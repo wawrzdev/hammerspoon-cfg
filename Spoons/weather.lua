@@ -1,0 +1,1 @@
+-- A menubar for current weather
